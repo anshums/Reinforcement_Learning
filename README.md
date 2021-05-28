@@ -4,7 +4,8 @@ This repository contains my work on implementation of various Deep Reinforcement
 Implementation of Proximal Policy Optimization, Evolutionary Algorithms, and DQN in Intersection Scenario.
 [Repository](https://github.com/eleurent/highway-env/tree/d6ef0d6d766c3b54a9f06cba3f09677d718109c3)
 
-![intersection_scenario](https://user-images.githubusercontent.com/56619856/119949536-f6516c00-bf67-11eb-8c77-6230929c18a2.mp4)
+![DRL Project](https://user-images.githubusercontent.com/56619856/119949846-46303300-bf68-11eb-9c36-9c500b53f922.gif)
+
 
 
 
