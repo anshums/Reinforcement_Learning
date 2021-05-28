@@ -1,6 +1,13 @@
 # Reinforcement_Learning
 This repository contains my work on implementation of various Deep Reinforcement Learning algorithms. These include my project and assignments from CS8810 Deep Reinforcement Learning class by Dr. Ioannis Karamouzas.
 
+Implementation of Proximal Policy Optimization, Evolutionary Algorithms, and DQN in Intersection Scenario.
+[Repository](https://github.com/eleurent/highway-env/tree/d6ef0d6d766c3b54a9f06cba3f09677d718109c3)
+
+![intersection_scenario](https://user-images.githubusercontent.com/56619856/119949536-f6516c00-bf67-11eb-8c77-6230929c18a2.mp4)
+
+
+
 Implementation of Evolutionary Strategies algorithm on lunarlander-env in Open-AI with Pytorch.
 
 ![lunarlander2](https://user-images.githubusercontent.com/56619856/111459394-01c72200-86f1-11eb-82a5-8f1301bf1eeb.gif)
